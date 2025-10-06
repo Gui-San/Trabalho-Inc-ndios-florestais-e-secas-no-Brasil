@@ -45,3 +45,54 @@ O notebook está estruturado nas seguintes etapas:
 1.  Este projeto foi desenvolvido em um notebook Jupyter (`.ipynb`).
 2.  O GitHub renderiza o arquivo diretamente nesta página, basta rolar para cima e visualizar o arquivo `Trabalho Incêndios florestais e secas no Brasil.ipynb`.
 3.  Alternativamente, você pode baixar o arquivo e executá-lo em um ambiente com Jupyter Notebook instalado.
+
+---
+<br>
+
+# 🔥 Analysis of Forest Fires and Droughts in Brazil 🇧🇷
+
+This is a data analysis project developed in a Jupyter Notebook (`.ipynb`) that explores the relationship between fire hotspots and drought periods in Brazilian territory.
+
+## 🎯 Project Objective
+
+The main objective is to perform an exploratory data analysis (EDA) of forest fire data to identify patterns, trends, and the geographical distribution of fire hotspots, correlating them with location information.
+
+---
+
+## 🛠️ Technologies Used
+
+* **Language:** Python
+* **Main Libraries:**
+    * **Pandas:** For data manipulation and wrangling.
+    * **Matplotlib / Seaborn:** For creating static charts.
+
+---
+
+## 📂 Analysis Structure
+
+The notebook is structured in the following steps:
+
+1.  **Data Collection and Loading:** Importing the initial dataset.
+2.  **Data Cleaning and Wrangling:** Adjusting data types, handling null values, and general data preparation.
+3.  **Exploratory Data Analysis (EDA):**
+    * Creation of charts to visualize the distribution of fires over time.
+    * Analysis of fire hotspots by state or region.
+4.  **Data Enrichment:**
+    * Merging the main dataset with a geolocation table to obtain coordinates.
+5.  **Geographic Visualization:**
+    * Creation of a scatter map to show the concentration of fire hotspots on the map of Brazil.
+
+---
+
+## 📊 Key Findings
+
+* During the study period, the largest fire hotspots involved the country's Pantanal region.
+* The analysis revealed a strong concentration of fire hotspots in the months of August and September.
+
+---
+
+## 🚀 How to View
+
+1.  This project was developed in a Jupyter Notebook (`.ipynb`).
+2.  GitHub renders the file directly on this page. Simply scroll up to view the `Trabalho Incêndios florestais e secas no Brasil.ipynb` file.
+3.  Alternatively, you can download the file and run it in an environment with Jupyter Notebook installed.
